@@ -18,7 +18,7 @@ export default function CreateUser() {
     <Box>
       <Header />
 
-      <Flex w="100%" my="6" maxWidth={1280} mx="auto">
+      <Flex w="100%" my="6" maxWidth={1280} mx="auto" px="6">
         <Sidebar />
 
         <Box flex="1" borderRadius="8" bg="gray.800" p="8">
